@@ -1,0 +1,50 @@
+# AI-Blockchain Integration Standards - MVP Toolbox
+# Core dependencies for reference implementation
+
+# Web Framework & API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# OpenAPI & Documentation
+openapi-spec-validator>=0.7.1
+pyyaml>=6.0.1
+
+# Machine Learning & AI
+torch>=2.1.0
+transformers>=4.35.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Evaluation & Benchmarking
+datasets>=2.14.0
+evaluate>=0.4.0
+
+# Blockchain Integration (Mock/Testnet)
+pycardano>=0.9.0
+web3>=6.11.0
+
+# Data & Serialization
+pandas>=2.1.0
+jsonschema>=4.19.0
+
+# Cryptography
+cryptography>=41.0.0
+hashlib-additional>=1.0.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+click>=8.1.0
+tqdm>=4.66.0
+
+# Development
+black>=23.10.0
+flake8>=6.1.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
+
