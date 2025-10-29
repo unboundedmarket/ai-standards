@@ -23,9 +23,9 @@ Welcome to the AI-Blockchain Integration Standards repository. This project prov
 This repository contains:
 
 - **Research Papers** - Theoretical framework and specifications
-  - [Research Proposal](1200134_Integrating_AI_and_Blockchain.pdf)
-  - [API & Certification Benchmarking](API_Certification_Benchmarking.pdf)
-  - [AI Consensus Paper](AI_Consensus.pdf)
+  - [Research Proposal](reports/1200134_Integrating_AI_and_Blockchain.pdf)
+  - [API & Certification Benchmarking](reports/API_Certification_Benchmarking.pdf)
+  - [AI Consensus Paper](reports/AI_Consensus.pdf)
 - **Reference Implementation** - [MVP toolbox] (`src/`)
 - **Examples** - Usage examples and demonstrations (`examples/`)
 - **CLI Tools** - Command-line utilities for certification, benchmarking, and consensus
